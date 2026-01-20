@@ -12,8 +12,8 @@
   <i>"Network enthusiast with an analytical mindset and a passion for networking."</i>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/lorenzo?label=Follow&style=social)](https://github.com/lorenzo)
-![Profile Views](https://komarev.com/ghpvc/?username=lorenzo&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/lorenzoatzori?label=Follow&style=social)](https://github.com/lorenzoatzori)
+![Profile Views](https://komarev.com/ghpvc/?username=lorenzoatzori&color=blue)
 
 ---
 
@@ -40,8 +40,8 @@ Currently diving deep into **network security**, **network architecture** and de
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lorenzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=lorenzoatzori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoatzori&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="languages" />
 
 <br/>
 
